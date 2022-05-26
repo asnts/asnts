@@ -22,8 +22,7 @@
   <img align="center" alt="Annanda-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">-
   <img align="center" alt="Annanda-MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     
-</div><br>
- 
+</div>
           
 
 </div><br>
