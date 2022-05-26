@@ -1,4 +1,4 @@
-# Olá! Eu sou Annanda 😎
+# Olá! Eu sou Annanda 👩🏼‍💻
 - 🔎 Em busca de novos desafios e aprendizados no mundo Tech
 - 🎶 "Se você precisa de um herói se olhe no espelho" 
 
