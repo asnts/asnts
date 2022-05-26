@@ -19,7 +19,7 @@
   <img align="center" alt="Annanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
   <img align="center" alt="Annanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
   <img align="center" alt="Annanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-
-  <img align="center" alt="Annanda-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Annanda-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">-
   <img align="center" alt="Annanda-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     
 </div><br>
@@ -30,8 +30,8 @@
 
 ## Soft Skills
 - Metodologia ágil
+- Kanban
 - Trello
 - Aprender a aprender
 - Trabalho em equipe
-- Gestão de conflitos
 - Postura Profissional
