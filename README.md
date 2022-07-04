@@ -2,7 +2,7 @@
 - 🔎 Em busca de novos desafios e aprendizados no mundo Tech
 - 🎶 "Se você precisa de um herói se olhe no espelho" 
 
-<div aling="center> 
+<div aling="center"> 
   <a href="https://github.com/asnts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asnts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asnts&layout=compact&langs_count=7&theme=dracula"/>
